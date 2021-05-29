@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-   <img src ="https://github-readme-stats.vercel.app/api/wakatime?username=vincreator&theme=dracula&hide_border=true&bg_color=00000000">
+   <img src ="https://media4.giphy.com/media/3otPoLEMiwPMpqJcly/giphy.gif">
 </p>
 
 <p align="center">
