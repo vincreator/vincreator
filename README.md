@@ -1,15 +1,11 @@
 <p align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a><b>Yo What's up This is my stuff</b>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Text&pause=1000&color=ED743B&center=true&width=435&lines=Hallo+my+name+ovin;Web+Developer+%7C+Bots+%7C+Android+Technican" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=vincreator&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&include_all_commits=true&bg_color=00000000">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vincreator&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
 </p>
-<!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=vincreator&repo=vincreator">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=vincreator&repo=vincreator">
-</p> -->
 
 <p align="center">
 <img src ="https://komarev.com/ghpvc/?username=vincreator&style=flat-square&color=red">
