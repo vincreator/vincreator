@@ -23,7 +23,7 @@
    <img src ="https://github-profile-trophy.vercel.app/?username=vincreator&row=2&column=3">
 </p>
 
-<p align="center">
+<p align="center" style="border: 1px solid #ccc; padding: 10px;">
   <b>📫 Contact Me</b>
 </p>
 <p align="center">
@@ -35,10 +35,10 @@
   </a>
 </p>
 
-<p align="center">
-<b>🤓 What I Learn 🤓</b>
+<p align="center" style="border: 1px solid #ccc; padding: 10px;">
+  <b>🤓 What I Learn 🤓</b>
 </p>
-<div style="display: flex;">
+<div style="display: flex; justify-content: center; border: 1px solid #ccc; padding: 10px;">
   <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
   <img src ="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
