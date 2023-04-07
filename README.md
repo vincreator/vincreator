@@ -30,6 +30,9 @@
   <a href='https://t.me/oViNc'>
     <img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='Telegram' />
   </a>
+  <a href='mailto:ovinc@pm.me'>
+    <img src='https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white' alt='ProtonMail' />
+  </a>
 </p>
 
 <p align="center">
