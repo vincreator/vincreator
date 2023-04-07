@@ -30,10 +30,3 @@
 <b>Telegram</b> - <a href='https://t.me/oViNc'>@oViNc</a>
 </p>
 
-<p align="center">
-<a href='https://saweria.co/vincreator'><b>BUY ME A COFFEE ☕️</b></a>
-</p>
-
-<p align="center">
-<img src ="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif">
-</p>
