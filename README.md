@@ -13,11 +13,9 @@
 
 ---
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vincreator&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B4513&text_color=FFFFFF&icon_color=8B4513&hide=issues,contribs&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="left">
+  
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vincreator&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B4513&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook,tex,css,php" alt="Top Languages" />
 </div>
 
